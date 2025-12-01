@@ -15,6 +15,15 @@
 | [paulox](https://www.paulox.net)                      | [⭐](https://github.com/pauloxnet/adventofcode/blob/main/aoc2024/day01.py)       | [⭐](https://github.com/pauloxnet/adventofcode/blob/main/aoc2024/day02.py)       | [⭐](https://github.com/pauloxnet/adventofcode/blob/main/aoc2024/day03.py) | [⭐](https://github.com/pauloxnet/adventofcode/blob/main/aoc2024/day04.py) | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
 | total                                                 | 5                                                                                | 5                                                                                | 5                                                                          | 5   | 3    | 2    | 2    | 1    | 2   | 2    | 2    |  2   | 2    | 2    | 1    | 1    |  2   | 1   | 1    | 1    |  1   |  1   |  1   | 1    |  1   |
 
+
+### 🗓️ [2025](https://adventofcode.com/2025)
+
+| 🧑‍💻 user                                               | repo                                         | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12  |
+|-------------------------------------------------------|----------------------------------------------|------|------|------|------|------|------|------|------|------|------|------|-----|
+| [gianluca](https://www.sci.unich.it/~amato/)          | https://github.com/amato-gianluca/aoc2025    | [⭐] |
+
+
+
 ### Join us
 
 [♻️ `fork this repository`](https://github.com/PythonPescara/advent-of-code/fork) — and open a PR with your changes!
