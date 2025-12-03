@@ -1,30 +1,57 @@
 # 🌠 Advent of Code
 
-[Python Pescara](https://pescara.python.it) community [Advent of Code](https://adventofcode.com/) solutions repository.
+This repository contains the [Advent of Code](https://adventofcode.com/) solutions shared by the [Python Pescara](https://pescara.python.it) community.
+Every member can add their name to the tables for each year and mark a star ⭐ when they solve a puzzle.
+
+The goal is to learn, practice, and enjoy coding together during the **Advent of Code** event.
 
 ## ✨ Events
 
-### 🗓️ [2024](https://adventofcode.com/2024)
-
-| 🧑‍💻 user                                               | 1                                                                                | 2                                                                                | 3                                                                          | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [colantovincent](https://github.com/Colantovincent)   | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day1.py)                | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day2.py)                | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day3.py)          | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day4.py)   | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day5.py)   | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day6.py)   | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day7.py)   | -   | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day9.py)   | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day10.py)   | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day11.py)   | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day12.py)   | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day13.py)   | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day14.py)   | -   | -   | [⭐](https://github.com/Colantovincent/aoc2024/blob/main/day17.py)   | -   | -   | -   | -   | -   | -   | -   | -   |
-| [gianluca](https://www.sci.unich.it/~amato/)          | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle1)                | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle2)                | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle3)          | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle4)   | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle5)    | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle6)     | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle7)    | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle8)   | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle9)     | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle10)   | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle11)   | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle12)    | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle13)   |  [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle14)   | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle15)   | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle16)    | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle17)   | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle18)    | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle19)   | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle20)   | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle21)    | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle22)  | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle23)   | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle24)   | [⭐](https://github.com/amato-gianluca/aoc2024/tree/main/puzzle25)   |
-| [LuigiSciarretta](https://github.com/LuigiSciarretta) | [⭐](https://github.com/LuigiSciarretta/AdventOfCode24/blob/master/Day1/day1.py) | [⭐](https://github.com/LuigiSciarretta/AdventOfCode24/blob/master/Day2/day2.py) | [⭐](https://github.com/LuigiSciarretta/AdventOfCode24/blob/master/Day3/day3.py) | [⭐](https://github.com/LuigiSciarretta/AdventOfCode24/blob/master/Day4/day4.py) | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
-| [Nicola Palmieri](https://github.com/n1c0p)                      | [⭐](https://github.com/n1c0p/AdventOfCode2024)       | [⭐](https://github.com/n1c0p/AdventOfCode2024)       | [⭐](https://github.com/n1c0p/AdventOfCode2024) | [⭐](https://github.com/n1c0p/AdventOfCode2024)   | [⭐](https://github.com/n1c0p/AdventOfCode2024)   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
-| [paulox](https://www.paulox.net)                      | [⭐](https://github.com/pauloxnet/adventofcode/blob/main/aoc2024/day01.py)       | [⭐](https://github.com/pauloxnet/adventofcode/blob/main/aoc2024/day02.py)       | [⭐](https://github.com/pauloxnet/adventofcode/blob/main/aoc2024/day03.py) | [⭐](https://github.com/pauloxnet/adventofcode/blob/main/aoc2024/day04.py) | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
-| total                                                 | 5                                                                                | 5                                                                                | 5                                                                          | 5   | 3    | 2    | 2    | 1    | 2   | 2    | 2    |  2   | 2    | 2    | 1    | 1    |  2   | 1   | 1    | 1    |  1   |  1   |  1   | 1    |  1   |
-
+Below are the community progress tables for each **Advent of Code** year.
 
 ### 🗓️ [2025](https://adventofcode.com/2025)
 
-| 🧑‍💻 user                                               | repo                                         | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9 | 10 | 11 | 12 |
-|-------------------------------------------------------|----------------------------------------------|----|----|----|----|----|----|----|----|----|----|----|---|
-| [gianluca](https://www.sci.unich.it/~amato/)          | https://github.com/amato-gianluca/aoc2025    | ⭐ | ⭐ |
-| [Nicola Palmieri]                                     | https://github.com/n1c0p/AdventOfCode        | ⭐ | ⭐ |
+*Short edition with 12 days of puzzles. Add your name and share your progress with stars.*
 
+| 🧑‍💻 user                                                        | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
+| -------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Gianluca Amato](https://github.com/amato-gianluca/aoc2025)    | ⭐  | ⭐  | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| [Nicola Palmieri](https://github.com/n1c0p/AdventOfCode)       | ⭐  | ⭐  | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| [Paolo Melchiorre](https://github.com/pauloxnet/adventofcode/) | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| total                                                          | 2   | 2   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
 
+### 🗓️ [2024](https://adventofcode.com/2024)
 
-### Join us
+*Full edition with 25 days. Here is the summary of the contributions from the community.*
 
-[♻️ `fork this repository`](https://github.com/PythonPescara/advent-of-code/fork) — and open a PR with your changes!
+| 🧑‍💻 user                                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
+| ---------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Gianluca Amato](https://github.com/amato-gianluca/aoc2024/)           | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  |
+| [Luigi Sciarretta](https://github.com/LuigiSciarretta/AdventOfCode24/) | ⭐  | ⭐  | ⭐  | ⭐  | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| [Nicola Palmieri](https://github.com/n1c0p/AdventOfCode2024)           | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| [Paolo Melchiorre](https://github.com/pauloxnet/adventofcode/)         | ⭐  | ⭐  | ⭐  | ⭐  | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| [Vincent Colantonio](https://github.com/Colantovincent/aoc2024/)       | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | -   | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | -   | -   | ⭐  | -   | -   | -   | -   | -   | -   | -   | -   |
+| total                                                                  | 5   | 5   | 5   | 5   | 3   | 2   | 2   | 1   | 2   | 2   | 2   | 2   | 2   | 2   | 1   | 1   | 2   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
+
+## 🧩 Symbol guide
+
+| Symbol | Meaning                                          |
+| ------ | ------------------------------------------------ |
+| ⭐     | Puzzle for that day solved                       |
+| –      | No solution or not solved                        |
+
+## 🤝 Join us
+
+If you want to join the Python Pescara community:
+
+1. [♻️ Fork this repository](https://github.com/PythonPescara/advent-of-code/fork)
+2. Add your user **entry** to the table for the current year
+
+   - Write your **name** with a link to your solutions
+   - Add ⭐ for each **day** you solved
+
+3. Open a **Pull Request** with your changes
+4. The Python Pescara team will review and **merge** it
+
+*Everyone is welcome to join, no matter your level of experience.
+We look forward to seeing your solutions!*
