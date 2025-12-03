@@ -16,9 +16,9 @@ Below are the community progress tables for each **Advent of Code** year.
 | 🧑‍💻 user                                                        | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
 | -------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Gianluca Amato](https://github.com/amato-gianluca/aoc2025)    | ⭐  | ⭐  | ⭐ | -   | -   | -   | -   | -   | -   | -   | -   | -   |
-| [Nicola Palmieri](https://github.com/n1c0p/AdventOfCode)       | ⭐  | ⭐  | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| [Nicola Palmieri](https://github.com/n1c0p/AdventOfCode)       | ⭐  | ⭐  | ⭐ | -   | -   | -   | -   | -   | -   | -   | -   | -   |
 | [Paolo Melchiorre](https://github.com/pauloxnet/adventofcode/) | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
-| total                                                          | 2   | 2   | 1   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| total                                                          | 2   | 2   | 2   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
 
 ### 🗓️ [2024](https://adventofcode.com/2024)
 
