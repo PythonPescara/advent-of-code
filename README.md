@@ -31,7 +31,8 @@ Below are the community progress tables for each **Advent of Code** year.
 | [Nicola Palmieri](https://github.com/n1c0p/AdventOfCode2024)           | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
 | [Paolo Melchiorre](https://github.com/pauloxnet/adventofcode/)         | ⭐  | ⭐  | ⭐  | ⭐  | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
 | [Vincent Colantonio](https://github.com/Colantovincent/aoc2024/)       | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | -   | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | ⭐  | -   | -   | ⭐  | -   | -   | -   | -   | -   | -   | -   | -   |
-| total                                                                  | 5   | 5   | 5   | 5   | 3   | 2   | 2   | 1   | 2   | 2   | 2   | 2   | 2   | 2   | 1   | 1   | 2   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
+  [Francesco Spalluzzi](https://github.com/jobFrancoNet/advcode2024)     | ⭐  | -  | -  | -  | -  | -  | -  | -   | -  | -  | -  | -  | -  | -  | -   | -   | -  | -   | -   | -   | -   | -   | -   | -   | -   |
+| total                                                                  | 6  | 5   | 5   | 5   | 3   | 2   | 2   | 1   | 2   | 2   | 2   | 2   | 2   | 2   | 1   | 1   | 2   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
 
 ## 🧩 Symbol guide
 
